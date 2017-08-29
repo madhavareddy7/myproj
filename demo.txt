@@ -1,3 +1,6 @@
 Hello 
 
-Good morning.This is Git sample file.
+Good morning.
+This is Git sample file.
+Good night.
+
