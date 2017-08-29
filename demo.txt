@@ -1,0 +1,3 @@
+Hello 
+
+Good morning.This is Git sample file.
